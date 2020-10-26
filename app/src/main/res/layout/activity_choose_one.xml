@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/back3"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".ChooseOne">
+
+    <LinearLayout
+        android:layout_width="272dp"
+        android:layout_height="303dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.498">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="238dp"
+            android:layout_height="55dp"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:text="@string/find_homemade_food_as_you_offered"
+            android:textAlignment="center"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:gravity="center_horizontal" />
+
+        <Button
+            android:id="@+id/ContactAsChef"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/btnred"
+            android:padding="5dp"
+            android:textColor="#FFFFFF"
+
+            android:text="@string/contact_as_chef" />
+
+        <Button
+            android:id="@+id/Customer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/btnred"
+            android:textColor="#FFFFFF"
+            android:padding="5dp"
+            android:text="@string/contact_as_customer" />
+
+        <Button
+            android:id="@+id/delivery"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/btnred"
+            android:padding="5dp"
+            android:textColor="#FFFFFF"
+
+            android:text="@string/contact_as_delivery_person" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

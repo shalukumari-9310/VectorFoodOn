@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">VectorFoodOn</string>
+    <string name="vector_food_on">VECTOR FOOD ON</string>
+    <string name="todo">TODO</string>
+
+    <string name="eat_homemade_anywhere">Eat Homemade Anywhere</string>
+    <string name="SiginwithPhone">Sigin with Phone</string>
+    <string name="sigin_with_email">Sigin with Email</string>
+    <string name="or">or</string>
+    <string name="signup">SignUp</string>
+    <string name="sigin_with_phone">sigin with phone</string>
+    <string name="find_homemade_food_as_you_offered">Find HomeMade food as you offered</string>
+    <string name="contact_as_chef">Contact As Chief</string>
+    <string name="contact_as_customer">Contact As Customer</string>
+    <string name="contact_as_delivery_person">Contact As Delivery Person</string>
+    <string name="conform_password">Conform Password</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email id</string>
+    <string name="moblenumber">MobleNumber</string>
+    <string name="house_street_no">House/Street no</string>
+    <string name="signin_with">SignIn with</string>
+    <string name="Emaill">Email</string>
+    <string name="phone">Phone</string>
+    <string name="city">City</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="state">State</string>
+    <string name="register">Register</string>
+    <string name="OR">OR</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login">Login</string>
+    <string name="dont_t_have_an_account_create">Dont \'t Have An Account? Create</string>
+    <string name="sigin_with">SigIn With</string>
+
+    <string name="house_streert_no">House/Streert no</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="firstname">FirstName</string>
+    <string name="lastname">LastName</string>
+    <string name="area">Area</string>
+    <string name="State">State</string>
+    <string name="City">City</string>
+    <string name="Email">email</string>
+    <string name="Register">Register</string>
+    <string name="Signin_with">SignIn_with</string>
+    <string name="MobleNumber">MobleNumber</string>
+    <string name="Lastname">LastName</string>
+    <string name="Firstname">FirstName</string>
+    <string name="Conform_password">Conform Password</string>
+    <string name="Email_id">Email id</string>
+    <string name="Password">Password</string>
+    <string name="Pin_code">Pin Code</string>
+    <string name="local_address">Local Address</string>
+    <string name="verify_phone_number">Verify Phone Number</string>
+    <string name="send_otpp">Send OTP</string>
+    <string name="Signinwith">SignIn With</string>
+    <string name="email">Email</string>
+    <string name="don_t_have_an_account_signup">Don\'t have An Account ? SignUP</string>
+    <string name="send_otp">Send OTP</string>
+    <string-array name="States_array">
+        <item>ANDHRA PRADESH</item>
+        <item>BIHAR</item>
+        <item>CHHATTISGARH</item>
+        <item>GOA</item>
+        <item>GUJARAT</item>
+        <item>HARYANA</item>
+        <item>KERALA</item>
+        <item>MADHYA PRADESH</item>
+        <item>ORRISHA</item>
+        <item>UP</item>
+    </string-array>
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+    <string-array name="DishName">
+        <item>Thepla</item>
+        <item>Burger King</item>
+        <item>Burger</item>
+        <item>Hungry Burger</item>
+        <item>Truffles Burger</item>
+        <item>Jimis Burger</item>
+        <item>Dal Makhni</item>
+        <item>Lemon Rice</item>
+        <item>Chapatti</item>
+        <item>Gulab Jamun</item>
+
+    </string-array>
+</resources>

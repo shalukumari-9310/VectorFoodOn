@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "667497836351",
+    "firebase_url": "https://myappli-86f1a.firebaseio.com",
+    "project_id": "myappli-86f1a",
+    "storage_bucket": "myappli-86f1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667497836351:android:f0576f0182bcc20953ed8a",
+        "android_client_info": {
+          "package_name": "com.example.vectorfoodon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667497836351-10grpuianf158cvumkf2lctv7j15s72k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjj_9cKaB19uCW09BPmr-JoGuC9ulb_Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667497836351-10grpuianf158cvumkf2lctv7j15s72k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
